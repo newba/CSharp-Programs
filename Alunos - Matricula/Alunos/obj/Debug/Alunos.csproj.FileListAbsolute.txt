@@ -1,0 +1,6 @@
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\bin\Debug\Alunos.exe.config
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\obj\Debug\Alunos.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\bin\Debug\Alunos.exe
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\bin\Debug\Alunos.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\obj\Debug\Alunos.exe
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\Alunos\Alunos\obj\Debug\Alunos.pdb
